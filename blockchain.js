@@ -1,4 +1,7 @@
 //Udemy Course -  Eric Traub - Building a Blockchain using Javascript - J Mackie
+//Every keystroke in the following code was entered manually by the student during the course walk through and tested on the localHost
+
+
 'use strict';
 const sha256 = require('sha256');
 const currentNodeUrl = process.argv[3];
